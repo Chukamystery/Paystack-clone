@@ -1,0 +1,123 @@
+body {
+    /* overflow: hidden; */
+}
+
+.nav-bg-cl {
+    background-color: #f1fef4;
+}
+
+.btn-acc {
+  color: white; 
+  border-radius: 3px;
+  padding: 10px 15px;
+  border: none;
+  outline: none;
+  height: 40px;
+  width: 18%;
+}
+
+.btn-acc1 {
+    color: white; 
+    border-radius: 3px;
+    padding: 10px 15px;
+    border: none;
+    outline: none;
+    height: 40px;
+    width: 35%;
+  }
+
+#hero {
+    background-color: #f1fef4;
+    /* min-height: 100vh; */
+    /* display: flex; */;
+        overflow: hidden;
+
+}
+.header-intro{
+    /* background: yellow !important; */
+    height: 100vh !important;
+}
+
+.header-container {
+    /* height: 100vh; */
+    width: 90%;
+    /* margin-top: 100px; */
+   /* padding-left: 50px !important; */
+   /* background-color: red; */
+   padding: 180px 0 80px  50px!important;
+
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+.svg-bg{
+    /* background: blue; */
+    position: relative;
+    overflow: hidden;
+
+}
+.logo-svg1 {
+    /* margin-left: -130px; */
+    position: absolute;
+top: 3%;
+left: -50%;
+height: 110%;
+overflow: hidden;
+border-radius: 50%;
+
+}
+
+.mid-header-container {
+    height: 30vh;
+    width: 10%;     
+    padding: 0 0 0  50px!important;
+}
+.mid-header-container2 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.logo-svg2 {
+    height: 50px;
+    width: 150px;
+    margin-right: 20px;
+}
+
+.logo-svg3 {
+    height: 50px;
+    width: 100px;
+    margin-right: 20px;
+}
+
+.logo-svg4 {
+    height: 50px;
+    width: 50px;
+    margin-right: 20px;
+}
+.logo-svg5 {
+    height: 50px;
+    width: 150px;
+    margin-right: 20px;
+}
+
+.logo-svg6-container {
+    /* background-color: rgb(138, 255, 71);
+    border-radius: 40px;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+.footer-content {
+    
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    
+}
